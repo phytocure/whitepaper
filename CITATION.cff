@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this protocol specification, please cite it as below."
+type: software
+title: "Phytocure Protocol"
+version: 1.0.0
+date-released: "2025-05-01"
+doi: 10.5281/zenodo.20143620
+license: CC-BY-4.0
+url: "https://phytocure.xyz"
+repository-code: "https://github.com/phytocure/phytocure-protocol"
+authors:
+  - family-names: "William"
+    given-names: "Conor"
+    orcid: "https://orcid.org/0009-0005-8307-2353"
+    email: "phytocure420@gmail.com"
+keywords:
+  - "decentralized science"
+  - "DeSci"
+  - "cannabis medicine"
+  - "Solana"
+  - "blockchain"
+  - "cannabinoids"
+  - "clinical prescriptions"
+  - "DAO"
+  - "PYCURE"
+abstract: >-
+  Phytocure is a decentralized science (DeSci) protocol for clinical cannabis
+  medicine built on the Solana blockchain. It provides on-chain prescription
+  attestation, open research publication with peer-review incentives,
+  AI-assisted cannabinoid strain analysis, and an immutable transaction ledger.
+  The $PYCURE token coordinates incentives across patients, practitioners,
+  researchers, and distributors.
+preferred-citation:
+  type: article
+  title: "Phytocure: A Decentralized Clinical Cannabis Medicine Protocol on the Solana Blockchain"
+  authors:
+    - family-names: "William"
+      given-names: "Conor"
+      orcid: "https://orcid.org/0009-0005-8307-2353"
+  year: 2025
+  journal: "Cannabis and Cannabinoid Research"
+  status: "under-review"
+  doi: 10.5281/zenodo.20143620
+  url: "https://www.preprints.org/manuscript/213326"
